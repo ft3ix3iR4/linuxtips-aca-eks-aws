@@ -4,7 +4,7 @@ Repositório Central do Curso de Containers no AWS EKS. Materiais extras e guia 
 
 | Recurso / Aula                | Repositório                                                                                                           |
 |-------------------------------|-----------------------------------------------------------------------------------------------------------------------|
-| VPC / Networking              | [Link do Github](EM BREVE)
+| VPC / Networking              | [Link do Github](https://github.com/msfidelis/linuxtips-curso-containers-aws-eks-networking)
 | EKS - Basico (Vanilla)          | [Link do Github](EM BREVE)
 | EKS - Estratégias de Node Groups  | [Link do Github](EM BREVE)
 | EKS - Fargate (Fargate Profiles)   | [Link do Github](EM BREVE)
